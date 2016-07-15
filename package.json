@@ -1,0 +1,19 @@
+{
+  "name": "narsumu",
+  "version": "0.0.1",
+  "description": "narsumu (arabic: we draw) is a module that allows collaborative drawing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canvas",
+    "draw",
+    "socket",
+    "websocket",
+    "realtime",
+    "collaboration"
+  ],
+  "author": "hallo@matthiashaak.com <Matthias Haak>",
+  "license": "MIT"
+}
